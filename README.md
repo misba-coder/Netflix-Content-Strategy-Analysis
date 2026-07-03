@@ -143,7 +143,7 @@ India's catalog is heavily concentrated in three genres while the US spreads eve
 
 ## Excel Dashboard
 
-![Netflix Content Strategy Dashboard](excel/screenshots/excel_dashboard.png)
+![Netflix Content Strategy Dashboard](excel/screenshorts/excel_dashboard.png)
 
 The Excel file (`excel/netflix_dashboard.xlsx`) contains three sheets:
 
